@@ -1,0 +1,9 @@
+div{
+    height: 300px;
+    width: 300px;
+    background-color:#7cdd96;
+    margin: 10px auto;
+    background-image: url("/css/ironman.jpg");
+    background-size:cover;
+    color: white;
+}
