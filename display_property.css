@@ -1,0 +1,24 @@
+/* h2{
+    display: inline;
+    background-color: lightblue;
+}
+span{
+    display: block;
+    background-color: lightcyan;
+} */
+ span{
+    background-color: green;
+ }
+
+ div{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background-color: green;
+    margin: 10px;
+    display: inline-block;
+
+ }
+#three{
+    display:none;
+}
