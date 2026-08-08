@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    text-decoration:  dotted pink underline ;
+    letter-spacing: 5px;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+h3{
+    text-align: start;
+    text-decoration:wavy red overline;
+}
+p{
+    text-align: justify;
+    /* font-weight: bold; */
+    font-size: 20px;
+    line-height:2.5;
+}
+
+h2{
+    font-weight: normal;
+    text-decoration: double green line-through;
+}
+a{
+    text-decoration: none;
+}
