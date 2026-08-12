@@ -1,0 +1,5 @@
+.linear{
+    height: 200px;
+    width: 300px;
+    background: linear-gradient(to bottom,red,yellow);
+}
