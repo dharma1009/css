@@ -15,3 +15,37 @@
     bottom: 50px;
     z-index: 3;
 }
+
+.container{
+    position: relative;
+    height: 300px;
+    width: 400px;
+    border: 2px solid black;
+}
+.box1{
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    background-color: red;
+    left: 40px;
+    top: 40px;
+    z-index: 1;
+}
+.box2{
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    background-color: green;
+    top: 80px;
+    left: 80px;
+    z-index: 2;
+}
+.box3{
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    background-color:blue;
+    top: 120px;
+    left: 120px;
+    z-index: 3;
+}
