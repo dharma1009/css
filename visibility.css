@@ -1,0 +1,9 @@
+.box1{
+    visibility: visible;
+}
+.box2{
+    visibility: hidden;
+}
+.box3{
+    visibility: collapse;
+}
